@@ -1,0 +1,35 @@
+unit converter    0.020000
+unit converter    0.040000
+unit converter    0.060000
+text editor    0.020000
+unit converter    0.080000
+text editor    0.040000
+unit converter    0.100000
+text editor    0.060000
+Alarm    0.020000
+unit converter    0.120000
+text editor    0.080000
+Alarm    0.040000
+unit converter    0.140000
+text editor    0.100000
+Alarm    0.060000
+login    0.020000
+unit converter    0.160000
+text editor    0.120000
+Alarm    0.080000
+login    0.040000
+text editor    0.140000
+Alarm    0.100000
+login    0.060000
+Alarm    0.120000
+login    0.080000
+Alarm    0.140000
+login    0.100000
+Alarm    0.160000
+login    0.120000
+Alarm    0.180000
+login    0.140000
+Alarm    0.200000
+login    0.160000
+Alarm    0.220000
+login    0.180000

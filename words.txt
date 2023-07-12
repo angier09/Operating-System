@@ -1,0 +1,5 @@
+bat
+car
+astronaut
+basketball
+amsterdam
